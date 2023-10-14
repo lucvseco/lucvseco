@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas! 👊
-### Sou um entusiasta da tecnologia dedicado e ávido por conhecimento, apaixonado por explorar o mundo digital e ansioso por desafios intelectuais. Minha paixão pela inovação e minha constante busca por aprendizado moldaram minha jornada profissional e pessoal. 
+ Sou um entusiasta da tecnologia dedicado e ávido por conhecimento, apaixonado por explorar o mundo digital e ansioso por desafios intelectuais. Minha paixão pela inovação e minha constante busca por aprendizado moldaram minha jornada profissional e pessoal. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-oliveira-374b351b2/)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lecoliveira)
